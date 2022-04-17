@@ -5,3 +5,4 @@ names:
 -fernando
 -gabriela
 -hendrick
+-isaque (stage)

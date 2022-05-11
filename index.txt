@@ -9,3 +9,8 @@ names:
 -joao (working)
 -kleber
 -leandro
+wq
+q
+wd
+qw
+d
